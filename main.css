@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    margin-left: 0;
+    margin-bottom: 0;
+    margin-right: 0;
+    
+}
+.jumbotron{
+    margin-right: 0;
+    background-image: url(images/grass.jpg);
+    height: 450px;
+    width:100%;
+    
+    margin-right: 0;
+    margin-left: 0;
+    text-align: center;
+    padding-top: 2px;
+    padding-bottom: 9px;
+}
+.animal-section{
+  margin-left: 35px;
+}
+.row-section{
+  margin-bottom: 25px;
+  padding-bottom: 10px;
+  border-bottom: 0.2px solid darkgray;
+
+    
+}
+.animal-section .column{
+   position: relative;
+   left:100px;
+}
+footer{
+    margin-top: 30px;
+    background-image: url(images/footer3.jpg);
+    height: 200px;
+    background-size: 100% 100%;
+    
+}
